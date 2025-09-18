@@ -1,2 +1,3 @@
 # zachschool1.github.io
-placeholder for github pages
+Author: Zachary Jordan
+Purpose: placeholder for github pages
